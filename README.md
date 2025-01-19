@@ -1,6 +1,6 @@
 ## The Long Trace of Oil Money Project
 
-This repository contains the code and data for my research project on **a social network analysis**.
+This repository contains the code and data for my research project on **a social network analysis on the Chavismo.inc dataset created by Transparencia Venezuela and others**.
 
 **1. Introduction**
 
